@@ -1,5 +1,5 @@
         import java.util.Scanner;
-        public class exercicios_dia_oito {
+        public class Exercicio08 {
         
         public static void main(String[] args) {
             // 0 - Todos os cálculos devem efetivamente ser armazenados em memória
